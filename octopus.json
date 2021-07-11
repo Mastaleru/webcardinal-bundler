@@ -26,7 +26,7 @@
         {
           "name": "webcardinal-core",
           "type": "smartClone",
-          "src": "https://github.com/webcardinal/webcardinal-core",
+          "src": "https://github.com/Mastaleru/webcardinal-core",
           "target": "./.webcardinal/components",
           "collectLog": false
         },
@@ -235,7 +235,7 @@
         {
           "name": "webcardinal-core",
           "type": "smartClone",
-          "src": "https://github.com/webcardinal/webcardinal-core",
+          "src": "https://github.com/Mastaleru/webcardinal-core",
           "target": "./.webcardinal/components",
           "collectLog": false
         }
@@ -286,7 +286,7 @@
         {
           "name": "webcardinal-core",
           "type": "smartClone",
-          "src": "https://github.com/webcardinal/webcardinal-core",
+          "src": "https://github.com/Mastaleru/webcardinal-core",
           "target": "./.webcardinal/components",
           "collectLog": false
         },
@@ -372,7 +372,7 @@
         {
           "name": "webcardinal-core",
           "type": "smartClone",
-          "src": "https://github.com/webcardinal/webcardinal-core",
+          "src": "https://github.com/Mastaleru/webcardinal-core",
           "target": "./.webcardinal/components",
           "collectLog": false
         },
